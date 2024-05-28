@@ -1,6 +1,6 @@
 ### Data collected during the research of citation of external sources in GitHub by Python programmers
 
-Owerall was collected 50K links to Python repositories which are stored in the `rep_links_data.csv` file. 
+Overall was collected 50K links to Python repositories which are stored in the `rep_links_data.csv` file. 
 The collected data about citeted external sources from comments of issues and pull requests of each repository are stored in `issue_data.csv` and `pulls_data.csv` files.
 
 For file `issue_data.csv` the link to issue in which comments was citation, domains of citated external sources and date of creation of issue 
